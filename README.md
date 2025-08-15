@@ -31,4 +31,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## License
 
-Please add a license file to your repository to let others know how they can use your code. You can choose a license from [choosealicense.com](https://choosealicense.com/).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
